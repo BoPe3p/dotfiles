@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rafalorcamun857@gmail.com
+	name = Rafael Lorca
